@@ -1,0 +1,5 @@
+persona_description,total,correct,accuracy
+Control中性基线,790,502,63.5%
+Fake Source虚假信息源,628,125,19.9%
+Influencer幽默博主,584,235,40.2%
+Scientist严谨科学家,659,443,67.2%
